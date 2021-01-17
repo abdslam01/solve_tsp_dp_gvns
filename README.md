@@ -24,6 +24,6 @@ python3 solve_tsp_dp_gvns.py
 [TSP problem report (in french)](https://github.com/abdslam01/solve_tsp_dp_gvns/blob/main/fr.subject.pdf)
 
 ## Demo of application
-![demo01_image](https://github.com/abdslam01/solve_tsp_dp_gvns/blob/main/demos/demo01.jpg)
+![demo01_image](https://github.com/abdslam01/solve_tsp_dp_gvns/blob/main/demo01.JPG)
 
-![demo02_image](https://github.com/abdslam01/solve_tsp_dp_gvns/blob/main/demos/demo02.jpg)
+![demo02_image](https://github.com/abdslam01/solve_tsp_dp_gvns/blob/main/demo02.JPG)
